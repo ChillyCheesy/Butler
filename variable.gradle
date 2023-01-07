@@ -1,0 +1,4 @@
+ext {
+    modulo_version = 'BINKS-0.3.0'
+    butler_version = '0.0.0'
+}
